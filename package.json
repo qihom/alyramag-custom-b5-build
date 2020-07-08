@@ -1,0 +1,22 @@
+{
+  "name": "alyramag-custom-b5-build",
+  "version": "1.0.0",
+  "description": "Custom build de bootstrap 5 pour AlyraMag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qihom/alyramag-custom-b5-build.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qihom/alyramag-custom-b5-build/issues"
+  },
+  "homepage": "https://github.com/qihom/alyramag-custom-b5-build#readme",
+  "devDependencies": {
+    "bootstrap": "^5.0.0-alpha1"
+  }
+}
